@@ -146,7 +146,7 @@ section {
 
 .header__image {
 	min-height: 300px;
-	background: url(./../images/header-bg.jpg) no-repeat right center/cover;
+	background: url(/./../images/header-bg.jpg) no-repeat right center/cover;
 }
 
 /*
